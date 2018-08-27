@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TwitterClient</string>
+    <string name="welcome">Wel Come!</string>
+
+    <string name="action_tweet">Tweet</string>
+    <string name="content_description_avatar">avatar image</string>
+    <string name="label_no_tweets">No Tweets yet? Tweet, tweet, tweet!</string>
+    <string name="label_send_tweet">Send tweet</string>
+    <string name="label_tag_line">Please log in with your Twitter account</string>
+    <string name="alert_tweet_failed">Sending tweet failed… :(</string>
+    <string name="alert_tweet_successful">Great Success!</string>
+    <string name="label_what_is_happening">What\'s happening?</string>
+    <string name="title_activity_twitter_feed">My Twitter Client Feed</string>
+</resources>
